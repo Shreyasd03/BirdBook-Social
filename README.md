@@ -6,7 +6,7 @@ This project was built to demonstrate **full-stack development skills** using mo
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - **Next.js (React framework)**  
@@ -44,7 +44,7 @@ This project was built to demonstrate **full-stack development skills** using mo
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 
 - **User Accounts**
   - Registration and login  
@@ -66,9 +66,7 @@ This project was built to demonstrate **full-stack development skills** using mo
 
 ---
 
-## 🖼 Screenshots / Demo
-
-> *(Replace placeholders with actual screenshots once available)*  
+## Screenshots / Demo
 
 - **Login Page**  
   ![Login Page](./screenshots/login.PNG)  
@@ -84,7 +82,7 @@ This project was built to demonstrate **full-stack development skills** using mo
 
 ---
 
-## 🛣 Roadmap
+## Roadmap
 
 Planned improvements and next steps:
 
@@ -100,7 +98,7 @@ Planned improvements and next steps:
 
 ---
 
-## ☁️ Deployment Options
+## Deployment Options
 
 ### **1. AWS Deployment**
 BirdBook can be deployed using **AWS managed services** for scalability and reliability:  
@@ -124,7 +122,7 @@ BirdBook can also be deployed with **Kubernetes** for greater flexibility:
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 Follow these steps to run BirdBook locally:
 
@@ -165,14 +163,3 @@ npm run dev
 BirdBook will be running at [http://localhost:3000](http://localhost:3000).  
 
 ---
-
-## 📌 Portfolio Value
-
-This project highlights:
-- **Frontend expertise** with React/Next.js, Axios, and modern styling (Tailwind + DaisyUI).  
-- **Backend/API development** with Node.js, API routes, JWT handling, and secure password storage.  
-- **Authentication & security** using JWT tokens and middleware-protected endpoints.  
-- **Database integration** using PostgreSQL + Prisma.  
-- **Cloud deployment knowledge** with AWS and Kubernetes.  
-
-It demonstrates end-to-end full-stack development of a social platform, from **UI design** to **database modeling**, **secure authentication**, and **cloud deployment strategies**.
