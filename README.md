@@ -150,7 +150,7 @@ Run Prisma migrations to create the database schema:
 npx prisma migrate dev
 ```
 
-*(Optional)* If you have a seed file for test data:
+*(Optional)* If you have or want to use the included seed file for test data:
 ```bash
 npx prisma db seed
 ```
