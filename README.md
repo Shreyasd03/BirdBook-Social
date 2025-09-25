@@ -71,16 +71,16 @@ This project was built to demonstrate **full-stack development skills** using mo
 > *(Replace placeholders with actual screenshots once available)*  
 
 - **Login Page**  
-  ![Login Page](./screenshots/login.png)  
+  ![Login Page](BirdBook/screenshots/login.png)  
 
 - **Main Feed**  
-  ![Main Feed](./screenshots/feed.png)  
+  ![Main Feed](BirdBook/screenshots/feed.png)  
 
 - **User Profile**  
-  ![Profile Page](./screenshots/profile.png)  
+  ![Profile Page](BirdBook/screenshots/profile.png)  
 
 - **Post Creation**  
-  ![Post Creation](./screenshots/post_creation.png)  
+  ![Post Creation](BirdBook/screenshots/post_creation.png)  
 
 ---
 
