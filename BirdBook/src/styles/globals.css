@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hide Next.js development badge */
+#__next-build-watcher {
+  display: none !important;
+}
+
+/* Alternative selectors for the badge */
+[data-nextjs-build-watcher] {
+  display: none !important;
+}
+
+/* Hide any development indicators */
+[data-nextjs-toast] {
+  display: none !important;
+}
+
+nextjs-portal {
+  display: none;
+}
+
+body {
+  @apply bg-gray-100 text-gray-900;
+  font-family: system-ui, sans-serif;
+  padding: 0 !important; /* To prevent potential padding issues caused by the overlay */
+  overflow: auto !important; /* To ensure scrolling works correctly */
+}
