@@ -71,16 +71,16 @@ This project was built to demonstrate **full-stack development skills** using mo
 > *(Replace placeholders with actual screenshots once available)*  
 
 - **Login Page**  
-  ![Login Page](./screenshots/login.png)  
+  ![Login Page](./screenshots/login.PNG)  
 
 - **Main Feed**  
-  ![Main Feed](./screenshots/feed.png)  
+  ![Main Feed](./screenshots/feed.PNG)  
 
 - **User Profile**  
-  ![Profile Page](./screenshots/profile.png)  
+  ![Profile Page](./screenshots/profile.PNG)  
 
 - **Post Creation**  
-  ![Post Creation](./screenshots/post_creation.png)  
+  ![Post Creation](./screenshots/post_creation.PNG)  
 
 ---
 
